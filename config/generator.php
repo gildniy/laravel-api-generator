@@ -57,7 +57,7 @@ return [
 
 	'namespace_controller'     => 'App\Http\Controllers',
 
-	'namespace_api_controller' => 'App\Http\Controllers\API',
+	'namespace_api_controller' => 'API',
 
 	'namespace_request'        => 'App\Http\Requests',
 
